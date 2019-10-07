@@ -1,0 +1,17 @@
+{
+  "name": "testcafe-cucumber",
+  "version": "1.0.0",
+  "description": "An integration of TestCafe and CucumberJS",
+  "author": "Denisse Falcon",
+  "license": "MIT",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js",
+    "test-report": "./node_modules/.bin/cucumber-js --format json:./reports/report.json",
+    "test-chrome": "./node_modules/.bin/cucumber-js  --world-parameters \"{\\\"browser\\\": \\\"chrome\\\"}\""
+  },
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "cucumber": "^5.1.0",
+    "testcafe": "^1.1.0"
+  }
+}
