@@ -17,11 +17,11 @@ yarn run test-chrome
 ```
 
 ## Consideraciones
--  En el proyecto no se incluyo las configuraciones para probar en Explorer debido a que no contaba con un dispositivo con windows. 
+-  En el proyecto no se incluye las configuraciones para probar en Explorer debido a que no cuento con un dispositivo con windows. 
 
 
-- En el flujo solicitado agrege un paso mas para ver la lista de sucursales de Tottus, 
+- En el flujo solicitado, agrege un paso mas para ver la lista de sucursales de Tottus, 
 debido a que desde regiones la sucursal de Tottus Nataniel no se ve el primer resultado de la busqueda.
 
-- Desde el domingo en la noche la pagina del Tottus cambio por el Cyber Monday, y el flujo se ve afectado debido a una lista de espera antes en su pagina principal.
+- Desde el domingo en la noche la pagina del Tottus cambio por el Cyber Monday, y el flujo se vio afectado debido a una lista de espera antes en su pagina principal.
 
